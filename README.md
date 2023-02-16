@@ -150,6 +150,9 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
+## Modification
+Addded REST API functionality
+
 ## Bugs
 No known bugs at this time. 
 
